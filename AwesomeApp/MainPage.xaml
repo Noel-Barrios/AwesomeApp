@@ -6,3 +6,6 @@
         <Button Text="Click Me" Clicked="Handle_Clicked" />
     </StackLayout>
 </ContentPage>
+
+<!--This code instantiates a new ContentPage object called MainPage that will display a single Label
+centered both vertically and horizontally on the page.-->
